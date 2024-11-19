@@ -10,15 +10,15 @@ from Miscellaneous.Scraper import pastebin, text_scraper, throwbin, ghostbin
 import os
 
 
-bot_token = os.environ.get('TG_BOT_TOKEN')
+bot_token = os.environ.get('7891618599:AAGM5PfrmxmnjIxJIG9wfLO67mRRfctp4JI')
 startmessage = [
     [
         InlineKeyboardButton(
             text="How to use me❓", url="https://telegra.ph/Instructions-to-Use-This-Bot-05-07"),
     ],
     [
-        InlineKeyboardButton(text="Developer 👨‍💻", url="t.me/kunaldiwan"),
-        InlineKeyboardButton(text="Channel 📢", url="t.me/DevelopedBots"
+        InlineKeyboardButton(text="Developer 👨‍💻", url="t.me/kiotoneverloveagain"),
+        InlineKeyboardButton(text="Channel 📢", url="t.me/kiotoneverloveagain"
 
         ),
     ],
